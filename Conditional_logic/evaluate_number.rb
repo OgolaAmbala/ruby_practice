@@ -11,4 +11,3 @@ elsif number <= 100
 else
     puts "You did not follow the instructions"
 end
-
